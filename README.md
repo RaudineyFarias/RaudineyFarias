@@ -9,9 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaudineyFarias&theme=nord&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaudineyFarias&layout=compact&langs_count=7&theme=nord"/>
     </div>
-![snake gif](https://github.com/RaudineyFarias/snake/README.md
-
-
+![snake gif](https://github.com/RaudineyFarias/Snake/blob/main/README.md)
 
 
 
