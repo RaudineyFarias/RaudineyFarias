@@ -21,8 +21,6 @@
 ![microsoft-office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 
-![snake gif](https://github.com/RaudineyFarias/RaudineyFarias/blob/output/github-contribution-grid-snake.svg)
-
   
 ### Studying in this moment:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -34,6 +32,8 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![snake gif](https://github.com/RaudineyFarias/RaudineyFarias/blob/output/github-contribution-grid-snake.svg)
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
