@@ -21,7 +21,7 @@
 ![microsoft-office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 
-
+![snake gif](https://github.com/RaudineyFarias/RaudineyFarias/blob/output/github-contribution-grid-snake.svg)
 
   
 ### Studying in this moment:
