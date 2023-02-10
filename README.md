@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Raudiney+Farias!;I'm+28+years+old;I+from+Brasil;I+study+programming+at+IFPB;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/RaudineyFarias">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RaudineyFarias&theme=nord&show_icons=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaudineyFarias&layout=compact&langs_count=7&theme=nord"/>
