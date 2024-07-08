@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=29293d&height=120&section=header&text=RaudineyFarias&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Raudiney+Farias!;I'm+29+years+old;I+from+Brazil;I+study+programming+at+Uniasselvi;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Raudiney+Farias!;I'm+29+years+old;I+from+Brazil;I+study+programming+at+Uniasselvi;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">
