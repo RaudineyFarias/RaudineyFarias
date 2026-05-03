@@ -12,23 +12,23 @@
 
 ---
 
-## 🧠 My Systems (Main Projects)
+### 🏢 RCore ERP Fiscal
 
-### 🏢 RaudSistemas - ERP
+RCore ERP Fiscal é um sistema SaaS desenvolvido em Django para gestão empresarial completa, incluindo financeiro, vendas, estoque e controle fiscal.
 
-Sistema ERP completo voltado para gestão empresarial, centralizando operações internas e melhorando a organização e produtividade.
+O sistema possui arquitetura multiempresa, controle de permissões por perfil, integração entre módulos e auditoria de ações, sendo preparado para escalabilidade e expansão.
 
 **Principais funcionalidades:**
-- Controle financeiro (receitas, despesas, relatórios)
-- Gestão de usuários e permissões
-- Organização de processos internos
-- Dashboard administrativo com métricas
+- Gestão financeira (caixa, contas a pagar/receber)
+- Controle de estoque com movimentações
+- Módulo de vendas integrado
+- Estrutura multiempresa (SaaS)
+- Controle de permissões por perfil
+- Auditoria de ações do sistema
+- Dashboard gerencial com métricas
 
 **Tecnologias:**
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-
+Python • Django • MySQL • HTML • CSS • JavaScript
 ---
 
 ### 🏋️ RaudTraining - Sistema para Academias
