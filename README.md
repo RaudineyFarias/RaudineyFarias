@@ -3,6 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Raudiney+Farias!;IT+Support+%7C+Developer;Systems+Builder;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ---
+Meus Projetos:
+
 
 ## 🚀 About Me
 
